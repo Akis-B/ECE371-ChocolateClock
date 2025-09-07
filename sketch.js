@@ -56,7 +56,7 @@ function draw() {
   textAlign(LEFT, TOP);
   text(`(${mouseX}, ${mouseY})`, 10, 10);*/
   
-  fill('rgb(48,32,0)');
+  fill('rgb(46,33,0)');
   strokeWeight(0);
   // Hour Chocolate
   rect(20, 308, 102,270);
@@ -120,4 +120,3 @@ function draw() {
   if (colH==7)
     rect(20,308,33*rowH, 33 *(colH+1)+6);
 }
-
