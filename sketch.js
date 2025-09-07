@@ -51,12 +51,12 @@ function draw() {
     }
   }*/
   
-  //cursor location
+  /*cursor location
   strokeWeight(0);
   fill('rgb(48,32,0)');                
   textSize(16);
   textAlign(LEFT, TOP);
-  text(`(${mouseX}, ${mouseY})`, 10, 10);
+  text(`(${mouseX}, ${mouseY})`, 10, 10);*/
   
   // Hour Chocolate
   rect(20, 308, 102,270);
