@@ -1,7 +1,14 @@
 html, body {
   margin: 0;
   padding: 0;
+  text-align: center;
+  font-family: sans-serif;
 }
 canvas {
   display: block;
+  margin: 0 auto;
+}
+.description {
+  font-size: 1rem;
+  margin-bottom: 20px;
 }

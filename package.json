@@ -1,0 +1,13 @@
+{
+  "name": "ece371-chocolateclock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p5.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

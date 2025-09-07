@@ -1,6 +1,6 @@
 // setup() is called once at page-load
 function setup() {
-  createCanvas(700, 600); 
+  createCanvas(700, 600).parent('clock-container');
 }
 
 // draw() is called 60 times per second
