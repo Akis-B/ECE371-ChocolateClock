@@ -108,7 +108,7 @@ function draw() {
     rect(190,244,33*rowM, 33 *(colM+1));
   if (colM==9)
     rect(190,244,33*rowM, 33 *(colM+1)+6);
-  
+  hr=10
   //Eating hour Chocolate
   let colH=Math.floor(hr / 3);
   let rowH=hr%3;
