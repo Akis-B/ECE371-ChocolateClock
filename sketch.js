@@ -9,7 +9,7 @@ function draw() {
   min = minute();
   let sec = second();
   
-  strokeWeight(1);
+  strokeWeight(0);
   background('#F0A2F7');
   
   /* //Lines
